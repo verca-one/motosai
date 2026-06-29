@@ -11,7 +11,7 @@ const navCategories: { label: string; href: string; soon?: boolean }[] = [
 ];
 
 const communityBoards = [
-  { label: "자유 게시판", href: "/community/free", desc: "자유롭게 이야기해요" },
+  { label: "공지사항", href: "/community/free", desc: "서비스 공지 및 안내" },
 ];
 
 export default function Header() {
@@ -87,7 +87,7 @@ export default function Header() {
                   : "text-neutral-600 dark:text-neutral-400 hover:text-neutral-900 dark:hover:text-neutral-100 hover:bg-neutral-100 dark:hover:bg-neutral-800"
               }`}
             >
-              커뮤니티
+              공지
               <svg
                 width="14" height="14" viewBox="0 0 14 14" fill="none"
                 stroke="currentColor" strokeWidth="1.5" strokeLinecap="round"
@@ -169,7 +169,7 @@ export default function Header() {
           ))}
           <div className="border-t border-neutral-100 dark:border-neutral-800 my-1" />
           <p className="px-3 py-1 text-[10px] font-semibold text-neutral-400 dark:text-neutral-500 uppercase tracking-wider">
-            커뮤니티
+            공지
           </p>
           {communityBoards.map((board) => (
             <Link
