@@ -10,6 +10,7 @@ export default function Footer() {
             <ul className="space-y-2">
               <li><Link href="/image/resize/" className="text-sm text-neutral-500 dark:text-neutral-400 hover:text-neutral-800 dark:hover:text-neutral-200 transition-colors">이미지 사이즈 변경</Link></li>
               <li><Link href="/image/nuki/" className="text-sm text-neutral-500 dark:text-neutral-400 hover:text-neutral-800 dark:hover:text-neutral-200 transition-colors">누끼따기 / 배경 제거</Link></li>
+              <li><Link href="/image/crop/" className="text-sm text-neutral-500 dark:text-neutral-400 hover:text-neutral-800 dark:hover:text-neutral-200 transition-colors">이미지 크롭</Link></li>
             </ul>
           </div>
           <div>
