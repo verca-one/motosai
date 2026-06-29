@@ -4,9 +4,9 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "사이트 소개 | 모토사이",
-  description: "모토사이는 이미지 편집, 오디오 변환, 문서 분석 등을 브라우저에서 바로 사용할 수 있는 무료 웹툴 사이트입니다.",
-  alternates: { canonical: "https://motosai.com/about/" },
+  title: "사이트 소개 | JpgMono",
+  description: "JpgMono는 이미지 편집, 오디오 변환, 문서 분석 등을 브라우저에서 바로 사용할 수 있는 무료 웹툴 사이트입니다.",
+  alternates: { canonical: "https://jpgmono.com/about/" },
 };
 
 export default function AboutPage() {
@@ -20,13 +20,13 @@ export default function AboutPage() {
           <span className="text-neutral-700 dark:text-neutral-300">사이트 소개</span>
         </nav>
 
-        <h1 className="text-3xl font-bold text-neutral-900 dark:text-white mb-6">모토사이 소개</h1>
+        <h1 className="text-3xl font-bold text-neutral-900 dark:text-white mb-6">JpgMono 소개</h1>
 
         <div className="prose prose-neutral dark:prose-invert max-w-none space-y-8 text-sm leading-relaxed text-neutral-600 dark:text-neutral-400">
           <section>
             <h2 className="text-lg font-bold text-neutral-900 dark:text-white mb-3">서비스 소개</h2>
             <p>
-              모토사이(Motosai)는 이미지 편집, 오디오 변환, 문서 분석 등 일상에서 자주 필요한 작업을
+              JpgMono(JPGMONO)는 이미지 편집, 오디오 변환, 문서 분석 등 일상에서 자주 필요한 작업을
               브라우저에서 바로 사용할 수 있는 무료 웹툴 플랫폼입니다.
             </p>
             <p className="mt-2">

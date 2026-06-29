@@ -3,7 +3,7 @@ import Footer from "@/components/Footer";
 import ImageCropper from "@/components/image-crop/ImageCropper";
 import ImageToolNav from "@/components/image-nuki/ImageToolNav";
 
-export const metadata = { title: "이미지 크롭 | 모토사이" };
+export const metadata = { title: "이미지 크롭 | JpgMono" };
 
 export default function ImageCropPage() {
   return (

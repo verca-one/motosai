@@ -4,9 +4,9 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "문의하기 | 모토사이",
-  description: "모토사이 서비스 이용 중 문의사항을 남겨주세요.",
-  alternates: { canonical: "https://motosai.com/contact/" },
+  title: "문의하기 | JpgMono",
+  description: "JpgMono 서비스 이용 중 문의사항을 남겨주세요.",
+  alternates: { canonical: "https://jpgmono.com/contact/" },
 };
 
 export default function ContactPage() {

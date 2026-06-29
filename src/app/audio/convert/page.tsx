@@ -7,17 +7,17 @@ import RelatedTools from "@/components/RelatedTools";
 import AdSlot from "@/components/AdSlot";
 
 export const metadata: Metadata = {
-  title: "MP3 변환 — 오디오·영상 파일을 MP3로 무료 변환 | 모토사이",
+  title: "MP3 변환 — 오디오·영상 파일을 MP3로 무료 변환 | JpgMono",
   description:
     "WAV, M4A, AAC, OGG, FLAC, MP4, MOV 파일을 MP3로 무료 변환합니다. 비트레이트·샘플레이트 선택 가능. 파일이 서버로 전송되지 않아 안전합니다.",
   keywords: ["MP3 변환", "오디오 변환", "WAV MP3 변환", "M4A MP3", "음악 변환", "무료 MP3 변환"],
   openGraph: {
-    title: "MP3 변환 | 모토사이",
+    title: "MP3 변환 | JpgMono",
     description: "WAV, M4A, AAC 등 오디오·영상 파일을 MP3로 무료 변환. 브라우저에서 바로 사용.",
     type: "website",
-    url: "https://motosai.com/audio/convert/",
+    url: "https://jpgmono.com/audio/convert/",
   },
-  alternates: { canonical: "https://motosai.com/audio/convert/" },
+  alternates: { canonical: "https://jpgmono.com/audio/convert/" },
 };
 
 const FAQ = [
@@ -55,7 +55,7 @@ export default function AudioConvertPage() {
               <p className="text-sm text-neutral-500 dark:text-neutral-400 leading-relaxed">
                 MP3 변환은 다양한 오디오·영상 파일을 MP3 형식으로 바꾸는 작업입니다.
                 MP3는 가장 널리 지원되는 오디오 포맷으로, 스마트폰·MP3 플레이어·차량 오디오 등에서 호환성이 뛰어납니다.
-                모토사이의 MP3 변환 도구는 브라우저에서 직접 변환하여 파일이 외부 서버로 전송되지 않습니다.
+                JpgMono의 MP3 변환 도구는 브라우저에서 직접 변환하여 파일이 외부 서버로 전송되지 않습니다.
               </p>
             </div>
             <div>

@@ -6,7 +6,7 @@ import Footer from "@/components/Footer";
 export const metadata: Metadata = {
   title: "이미지 도구 — 무료 온라인 이미지 편집",
   description: "이미지 사이즈 변경, 누끼따기(배경 제거), 이미지 크롭 등 다양한 이미지 편집 도구를 브라우저에서 바로 사용하세요.",
-  alternates: { canonical: "https://motosai.com/image/" },
+  alternates: { canonical: "https://jpgmono.com/image/" },
 };
 
 const tools = [

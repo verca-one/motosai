@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 
-const STORAGE_KEY = "motosai_backup_banner_dismissed";
+const STORAGE_KEY = "JPGMONO_backup_banner_dismissed";
 
 export default function BackupBanner() {
   const [visible, setVisible] = useState(false);
@@ -29,7 +29,7 @@ export default function BackupBanner() {
           <div className="flex-1 min-w-0">
             <div className="flex items-center gap-2">
               <p className="text-sm font-semibold text-amber-800 dark:text-amber-300">
-                모토사이는 웹 기반 서비스입니다.
+                JpgMono는 웹 기반 서비스입니다.
               </p>
               <button
                 onClick={() => setCollapsed(v => !v)}

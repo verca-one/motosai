@@ -36,7 +36,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="pt-6 border-t border-neutral-100 dark:border-neutral-800 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-neutral-400 dark:text-neutral-600">
-          <span>© 2026 모토사이. 무료로 제공됩니다.</span>
+          <span>© 2026 JpgMono. 무료로 제공됩니다.</span>
           <span>브라우저에서 바로 사용 · 파일이 서버로 전송되지 않습니다</span>
         </div>
       </div>

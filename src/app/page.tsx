@@ -5,17 +5,17 @@ import Footer from "@/components/Footer";
 import AdSlot from "@/components/AdSlot";
 
 export const metadata: Metadata = {
-  title: "모토사이 — 무료 온라인 이미지·오디오·문서 도구",
+  title: "JpgMono — 무료 온라인 이미지·오디오·문서 도구",
   description:
     "이미지 사이즈 변경, 배경 제거(누끼따기), MP3 변환, 글자수 세기, 맞춤법 검사까지. 설치 없이 브라우저에서 바로 사용하는 무료 웹툴 모음입니다.",
   keywords: ["이미지 사이즈 변경", "누끼따기", "배경 제거", "MP3 변환", "글자수 세기", "맞춤법 검사", "무료 온라인 도구"],
   openGraph: {
-    title: "모토사이 — 무료 온라인 이미지·오디오·문서 도구",
+    title: "JpgMono — 무료 온라인 이미지·오디오·문서 도구",
     description: "이미지 사이즈 변경, 배경 제거, MP3 변환, 글자수·맞춤법 검사. 브라우저에서 바로 사용하는 무료 웹툴.",
     type: "website",
-    url: "https://motosai.com/",
+    url: "https://jpgmono.com/",
   },
-  alternates: { canonical: "https://motosai.com/" },
+  alternates: { canonical: "https://jpgmono.com/" },
 };
 
 const categories = [
@@ -145,7 +145,7 @@ export default function Home() {
         {/* Features summary */}
         <section className="bg-neutral-50 dark:bg-neutral-900/50 py-16">
           <div className="max-w-6xl mx-auto px-4 sm:px-6">
-            <h2 className="text-xl font-bold text-neutral-900 dark:text-white mb-8 text-center">왜 모토사이인가요?</h2>
+            <h2 className="text-xl font-bold text-neutral-900 dark:text-white mb-8 text-center">왜 JpgMono인가요?</h2>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
               {[
                 { title: "서버 업로드 없음", desc: "모든 작업이 브라우저 안에서 처리됩니다. 파일이 외부 서버로 전송되지 않아 개인정보가 안전합니다." },

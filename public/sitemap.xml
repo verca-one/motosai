@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://motosai.com/</loc>
+    <loc>https://jpgmono.com/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://motosai.com/image/</loc>
+    <loc>https://jpgmono.com/image/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://motosai.com/image/resize/</loc>
+    <loc>https://jpgmono.com/image/resize/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://motosai.com/image/nuki/</loc>
+    <loc>https://jpgmono.com/image/nuki/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://motosai.com/audio/</loc>
+    <loc>https://jpgmono.com/audio/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://motosai.com/audio/convert/</loc>
+    <loc>https://jpgmono.com/audio/convert/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://motosai.com/document/</loc>
+    <loc>https://jpgmono.com/document/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://motosai.com/document/counter/</loc>
+    <loc>https://jpgmono.com/document/counter/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://motosai.com/about/</loc>
+    <loc>https://jpgmono.com/about/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://motosai.com/contact/</loc>
+    <loc>https://jpgmono.com/contact/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://motosai.com/privacy/</loc>
+    <loc>https://jpgmono.com/privacy/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://motosai.com/terms/</loc>
+    <loc>https://jpgmono.com/terms/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>

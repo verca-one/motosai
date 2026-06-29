@@ -7,17 +7,17 @@ import RelatedTools from "@/components/RelatedTools";
 import AdSlot from "@/components/AdSlot";
 
 export const metadata: Metadata = {
-  title: "누끼따기 / 배경 제거 — AI 자동 배경 제거 무료 | 모토사이",
+  title: "누끼따기 / 배경 제거 — AI 자동 배경 제거 무료 | JpgMono",
   description:
     "AI가 자동으로 이미지 배경을 제거합니다. 투명 PNG로 저장하거나 원하는 배경색을 적용할 수 있습니다. 브라우저에서 처리되어 파일이 서버로 전송되지 않습니다.",
   keywords: ["누끼따기", "배경 제거", "배경 없애기", "투명 배경", "PNG 배경 제거", "AI 배경 제거"],
   openGraph: {
-    title: "누끼따기 / 배경 제거 | 모토사이",
+    title: "누끼따기 / 배경 제거 | JpgMono",
     description: "AI가 자동으로 이미지 배경을 제거합니다. 투명 PNG 저장 지원. 브라우저에서 바로 사용.",
     type: "website",
-    url: "https://motosai.com/image/nuki/",
+    url: "https://jpgmono.com/image/nuki/",
   },
-  alternates: { canonical: "https://motosai.com/image/nuki/" },
+  alternates: { canonical: "https://jpgmono.com/image/nuki/" },
 };
 
 const FAQ = [
@@ -62,7 +62,7 @@ export default function NukkiPage() {
               <p className="text-sm text-neutral-500 dark:text-neutral-400 leading-relaxed">
                 누끼따기(배경 제거)는 이미지에서 피사체만 남기고 배경을 제거하는 작업입니다.
                 상품 사진 편집, 증명사진 배경 변경, 합성 이미지 제작 등에 활용됩니다.
-                모토사이는 딥러닝 AI 모델을 사용하여 클릭 한 번으로 자동 배경 제거를 지원하며,
+                JpgMono는 딥러닝 AI 모델을 사용하여 클릭 한 번으로 자동 배경 제거를 지원하며,
                 테두리 품질 개선 기능도 제공합니다.
               </p>
             </div>

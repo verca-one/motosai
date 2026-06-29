@@ -27,11 +27,11 @@ interface Comment {
   likes: number;
 }
 
-const POSTS_KEY = "motosai_community_posts_v3";
-const COMMENTS_KEY = "motosai_community_comments_v1";
+const POSTS_KEY = "JPGMONO_community_posts_v3";
+const COMMENTS_KEY = "JPGMONO_community_comments_v1";
 
 const INITIAL_POSTS: Post[] = [
-  { id: "n1", no: 0, type: "공지", title: "모토사이 서비스 오픈 안내", content: "모토사이가 오픈했습니다. 많은 이용 부탁드립니다.", author: "익명", userId: "", password: "", createdAt: "2026-06-29", views: 1240, likes: 32, comments: 2 },
+  { id: "n1", no: 0, type: "공지", title: "JpgMono 서비스 오픈 안내", content: "JpgMono가 오픈했습니다. 많은 이용 부탁드립니다.", author: "익명", userId: "", password: "", createdAt: "2026-06-29", views: 1240, likes: 32, comments: 2 },
   { id: "2", no: 2, type: "일반", title: "이미지 사이즈 변경 기능 정말 편하네요", content: "브라우저에서 바로 되니까 너무 좋습니다. 서버 업로드 없이 처리되는 게 신기해요.", author: "익명", userId: "", password: "", createdAt: "2026-06-29", views: 89, likes: 4, comments: 1 },
   { id: "1", no: 1, type: "일반", title: "WEBP 변환 기능도 빨리 나왔으면 좋겠어요", content: "준비중이라고 되어있던데 언제 나오나요?", author: "익명", userId: "", password: "", createdAt: "2026-06-29", views: 43, likes: 1, comments: 0 },
 ];

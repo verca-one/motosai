@@ -4,9 +4,9 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "개인정보처리방침 | 모토사이",
-  description: "모토사이 서비스의 개인정보처리방침입니다.",
-  alternates: { canonical: "https://motosai.com/privacy/" },
+  title: "개인정보처리방침 | JpgMono",
+  description: "JpgMono 서비스의 개인정보처리방침입니다.",
+  alternates: { canonical: "https://jpgmono.com/privacy/" },
 };
 
 export default function PrivacyPage() {
@@ -27,7 +27,7 @@ export default function PrivacyPage() {
           <section>
             <h2 className="text-lg font-bold text-neutral-900 dark:text-white mb-3">1. 수집하는 개인정보</h2>
             <p>
-              모토사이는 회원가입, 로그인, 결제 등의 기능을 제공하지 않으며,
+              JpgMono는 회원가입, 로그인, 결제 등의 기능을 제공하지 않으며,
               이용자의 이름, 이메일, 연락처 등 개인 식별 정보를 직접 수집하지 않습니다.
             </p>
             <p className="mt-2">
@@ -50,7 +50,7 @@ export default function PrivacyPage() {
           <section>
             <h2 className="text-lg font-bold text-neutral-900 dark:text-white mb-3">3. 쿠키(Cookie) 사용</h2>
             <p>
-              모토사이는 서비스 편의 개선을 위해 쿠키를 사용할 수 있습니다.
+              JpgMono는 서비스 편의 개선을 위해 쿠키를 사용할 수 있습니다.
               쿠키는 개인을 식별하는 정보를 포함하지 않으며, 브라우저 설정에서 거부할 수 있습니다.
               단, 쿠키를 거부하면 일부 기능이 정상 동작하지 않을 수 있습니다.
             </p>
@@ -58,7 +58,7 @@ export default function PrivacyPage() {
 
           <section>
             <h2 className="text-lg font-bold text-neutral-900 dark:text-white mb-3">4. 제3자 서비스</h2>
-            <p>모토사이는 아래와 같은 제3자 서비스를 사용할 수 있으며, 해당 서비스의 개인정보처리방침이 적용됩니다.</p>
+            <p>JpgMono는 아래와 같은 제3자 서비스를 사용할 수 있으며, 해당 서비스의 개인정보처리방침이 적용됩니다.</p>
             <ul className="mt-2 list-disc list-inside space-y-1">
               <li>Google Analytics (방문자 통계 분석)</li>
               <li>Google AdSense (광고 서비스)</li>
@@ -69,7 +69,7 @@ export default function PrivacyPage() {
           <section>
             <h2 className="text-lg font-bold text-neutral-900 dark:text-white mb-3">5. 개인정보의 보유 및 이용 기간</h2>
             <p>
-              모토사이는 이용자의 개인정보를 별도로 보유하지 않습니다.
+              JpgMono는 이용자의 개인정보를 별도로 보유하지 않습니다.
               자동 수집 정보(접속 로그 등)는 분석 서비스 제공 업체의 정책에 따라 관리됩니다.
             </p>
           </section>

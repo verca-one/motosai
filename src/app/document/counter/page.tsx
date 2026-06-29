@@ -6,17 +6,17 @@ import RelatedTools from "@/components/RelatedTools";
 import AdSlot from "@/components/AdSlot";
 
 export const metadata: Metadata = {
-  title: "글자수 세기 / 맞춤법 검사 — 한국어 무료 온라인 도구 | 모토사이",
+  title: "글자수 세기 / 맞춤법 검사 — 한국어 무료 온라인 도구 | JpgMono",
   description:
     "한국어 글자수·단어수·문장수를 실시간으로 세고, 맞춤법·띄어쓰기를 검사합니다. TXT·DOCX 파일 열기 및 저장 지원. 브라우저에서 바로 사용.",
   keywords: ["글자수 세기", "맞춤법 검사", "한국어 맞춤법", "띄어쓰기 검사", "단어수 세기", "글자수 카운터"],
   openGraph: {
-    title: "글자수 세기 / 맞춤법 검사 | 모토사이",
+    title: "글자수 세기 / 맞춤법 검사 | JpgMono",
     description: "한국어 글자수·단어수·맞춤법·띄어쓰기를 실시간으로 검사. 브라우저에서 바로 사용.",
     type: "website",
-    url: "https://motosai.com/document/counter/",
+    url: "https://jpgmono.com/document/counter/",
   },
-  alternates: { canonical: "https://motosai.com/document/counter/" },
+  alternates: { canonical: "https://jpgmono.com/document/counter/" },
 };
 
 const FAQ = [

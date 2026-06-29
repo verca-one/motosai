@@ -43,7 +43,7 @@ export default function Header() {
               <rect x="10" y="10" width="6" height="6" rx="1.5" fill="white" className="dark:fill-neutral-900" opacity="0.4" />
             </svg>
           </span>
-          <span className="font-semibold text-lg tracking-tight">모토사이</span>
+          <span className="font-semibold text-lg tracking-tight">JpgMono</span>
         </Link>
 
         {/* Desktop nav */}

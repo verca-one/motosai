@@ -4,8 +4,8 @@ import Footer from "@/components/Footer";
 import CommunityBoard from "@/components/community/CommunityBoard";
 
 export const metadata: Metadata = {
-  title: "자유 게시판 | 모토사이",
-  description: "모토사이 자유 게시판입니다.",
+  title: "자유 게시판 | JpgMono",
+  description: "JpgMono 자유 게시판입니다.",
 };
 
 export default function FreeBoardPage() {

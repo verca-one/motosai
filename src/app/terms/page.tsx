@@ -4,9 +4,9 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "이용약관 | 모토사이",
-  description: "모토사이 서비스 이용약관입니다.",
-  alternates: { canonical: "https://motosai.com/terms/" },
+  title: "이용약관 | JpgMono",
+  description: "JpgMono 서비스 이용약관입니다.",
+  alternates: { canonical: "https://jpgmono.com/terms/" },
 };
 
 export default function TermsPage() {
@@ -27,7 +27,7 @@ export default function TermsPage() {
           <section>
             <h2 className="text-lg font-bold text-neutral-900 dark:text-white mb-3">제1조 (목적)</h2>
             <p>
-              본 약관은 모토사이(이하 "서비스")가 제공하는 온라인 도구 서비스의 이용 조건 및 절차,
+              본 약관은 JpgMono(이하 "서비스")가 제공하는 온라인 도구 서비스의 이용 조건 및 절차,
               이용자와 서비스 간의 권리·의무 및 책임 사항을 규정함을 목적으로 합니다.
             </p>
           </section>

@@ -7,17 +7,17 @@ import RelatedTools from "@/components/RelatedTools";
 import AdSlot from "@/components/AdSlot";
 
 export const metadata: Metadata = {
-  title: "이미지 사이즈 변경 — 무료 온라인 이미지 리사이즈 | 모토사이",
+  title: "이미지 사이즈 변경 — 무료 온라인 이미지 리사이즈 | JpgMono",
   description:
     "JPG, PNG, WEBP 이미지를 원하는 크기(픽셀·퍼센트)로 무료 변경하세요. 설치 없이 브라우저에서 바로 사용 가능하며 파일이 서버로 전송되지 않습니다.",
   keywords: ["이미지 사이즈 변경", "이미지 리사이즈", "JPG 크기 변경", "PNG 크기 변경", "무료 이미지 편집"],
   openGraph: {
-    title: "이미지 사이즈 변경 | 모토사이",
+    title: "이미지 사이즈 변경 | JpgMono",
     description: "JPG, PNG, WEBP 이미지를 원하는 크기로 무료 변경. 브라우저에서 바로 사용 가능합니다.",
     type: "website",
-    url: "https://motosai.com/image/resize/",
+    url: "https://jpgmono.com/image/resize/",
   },
-  alternates: { canonical: "https://motosai.com/image/resize/" },
+  alternates: { canonical: "https://jpgmono.com/image/resize/" },
 };
 
 const FAQ = [
@@ -72,7 +72,7 @@ export default function ResizePage() {
               <p className="text-sm text-neutral-500 dark:text-neutral-400 leading-relaxed">
                 이미지 사이즈 변경(리사이즈)은 이미지의 가로·세로 픽셀 수를 조절하는 작업입니다.
                 SNS 프로필 사진, 블로그 썸네일, 이메일 첨부 등 다양한 상황에서 적절한 크기의 이미지가 필요합니다.
-                모토사이에서는 픽셀 또는 퍼센트 단위로 자유롭게 크기를 지정할 수 있으며,
+                JpgMono에서는 픽셀 또는 퍼센트 단위로 자유롭게 크기를 지정할 수 있으며,
                 가로세로 비율 유지 옵션도 제공합니다.
               </p>
             </div>
