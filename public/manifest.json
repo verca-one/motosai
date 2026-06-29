@@ -1,0 +1,14 @@
+{
+  "name": "JpgMono",
+  "short_name": "JpgMono",
+  "description": "이미지·오디오·문서 무료 온라인 도구",
+  "start_url": "https://jpgmono.com/",
+  "scope": "https://jpgmono.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#171717",
+  "lang": "ko",
+  "icons": [
+    { "src": "/favicon.ico", "sizes": "any", "type": "image/x-icon" }
+  ]
+}
