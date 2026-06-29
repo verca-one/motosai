@@ -44,7 +44,7 @@ const tools = [
     ),
     title: "이미지 크롭",
     description: "원하는 영역으로 이미지를 잘라냅니다.",
-    badge: "준비중",
+    badge: null,
   },
 ];
 
