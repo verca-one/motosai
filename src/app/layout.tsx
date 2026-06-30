@@ -41,7 +41,7 @@ export const metadata: Metadata = {
   },
   manifest: "/manifest.json",
   verification: {
-    google: "txCjQNxhIGDN2FsxBwkt67a9DxTErXyGTGpKbX8D1B4",
+    google: "lydvmZSs0nmD9hGux2jxwcds377n84x6lwQyw156qBo",
   },
 };
 
@@ -66,7 +66,7 @@ export default function RootLayout({
   return (
     <html lang="ko" className="h-full">
       <head>
-        <meta name="google-site-verification" content="txCjQNxhIGDN2FsxBwkt67a9DxTErXyGTGpKbX8D1B4" />
+        <meta name="google-site-verification" content="lydvmZSs0nmD9hGux2jxwcds377n84x6lwQyw156qBo" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
