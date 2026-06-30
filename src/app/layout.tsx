@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import "./globals.css";
 import BackupBanner from "@/components/BackupBanner";
 
@@ -72,6 +73,12 @@ export default function RootLayout({
         />
       </head>
       <body className="min-h-full flex flex-col bg-white dark:bg-neutral-950 text-neutral-900 dark:text-neutral-100">
+        <Script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8658921182810502"
+          crossOrigin="anonymous"
+          strategy="afterInteractive"
+        />
         <BackupBanner />
         {children}
       </body>
