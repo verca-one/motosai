@@ -40,8 +40,8 @@ export default function BackupBanner() {
             </div>
             {!collapsed && (
               <p className="mt-1 text-xs text-amber-700 dark:text-amber-400 leading-relaxed">
-                손실될 수 있습니다.
-                <strong className="font-semibold"> 중요한 작업물은 반드시 백업 후에 이용해 주세요.</strong>
+                작업중 예상치 못한 브라우저 오류, 인터넷 연결 문제, 기기오류등으로 작업 내용이 손실될 수 있습니다.
+                <strong className="font-semibold"> 중요한 작업물은 반드시 안전하게 백업 후에 이용해 주세요.</strong>
               </p>
             )}
           </div>
