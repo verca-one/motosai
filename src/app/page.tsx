@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import AdSlot from "@/components/AdSlot";
 
 export const metadata: Metadata = {
   title: "JpgMono — 무료 온라인 이미지·오디오·문서 도구",
@@ -85,11 +84,6 @@ export default function Home() {
             ⚠️ 중요한 작업물의 원본은 작업 전에 미리 백업해 주세요.
           </p>
         </section>
-
-        {/* Ad slot — hero 아래 */}
-        <div className="max-w-6xl mx-auto px-4 sm:px-6 mb-8">
-          <AdSlot />
-        </div>
 
         {/* Tool categories */}
         <section className="max-w-6xl mx-auto px-4 sm:px-6 pb-20">
