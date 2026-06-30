@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /community/
 
 Sitemap: https://jpgmono.com/sitemap.xml
